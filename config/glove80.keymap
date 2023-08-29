@@ -161,8 +161,8 @@
   &none    &none   &none    &none     &none  &none                                                                  &none  &none     &none    &none    &none  &none
 
     &none     &none &none      &none       &none    &none                                                                    &none   &none &none &none &none &none
-    &kp GRAVE     &kp PIPE     &kp KP_PLUS     &kp COLON      &kp UNDER   &kp DQT                                                                   &kp EXCL   &kp LPAREN   &kp STAR     &kp AMPS    &kp PRCNT    &none
-  &trans     &kp QMARK    &kp LT     &kp GT      &kp LBRC   &kp RBRC  &trans  &trans    &lower  &trans  &trans  &trans   &kp HASH   &kp RPAREN  &kp DLLR   &kp AT  &kp CARET  &trans
+    &kp TILDE     &kp PIPE     &kp KP_PLUS     &kp COLON      &kp UNDER   &kp DQT                                                                   &kp EXCL   &kp LPAR   &kp STAR     &kp AMPS    &kp PRCNT    &none
+  &trans     &kp QMARK    &kp LT     &kp GT      &kp LBRC   &kp RBRC  &trans  &trans    &lower  &trans  &trans  &trans   &kp HASH   &kp RPAR  &kp DLLR   &kp AT  &kp CARET  &trans
  &magic 2 0  &trans  &trans  &trans  &trans           &trans    &trans  &trans  &trans    &trans  &trans          &trans   &trans  &trans  &trans  &trans
             >;
         };
