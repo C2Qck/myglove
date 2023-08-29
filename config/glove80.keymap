@@ -153,7 +153,8 @@
 
     &none     &kp EXCL    &kp HASH     &kp FSLH      &kp PRCNT   &kp BLSH                                                                   &none   &none &none &none &none &none
     &kp TILDE     &kp EQUAL     &kp AMPS     &kp SEMI      &lt #SYM2 MINUS   &kp APOS                                                                   &kp 0   &kp 1      &kp 2     &kp 3     &kp 4    &kp SQT
-  &kp GRAVE     &kp LBKT    &kp LT     &kp LPAR      &kp LBRC   &kp COMMA  &kp LSHFT  &kp LCTRL    &lower  &kp LGUI  &kp RCTRL  &kp RSHFT   &kp 5   &kp 6  &kp 7   &kp 8  &kp 9  &kp PG_UP
+
+  &trans     &kp LBKT    &kp LT     &kp LPAR      &kp LBRC   &kp COMMA  &trans  &trans    &lower  &trans  &trans  &trans   &kp 5   &kp 6  &kp 7   &kp 8  &kp 9  &trans
  &magic 2 0  &trans  &trans  &trans  &trans           &trans    &trans  &trans  &trans    &trans  &trans          &trans   &trans  &trans  &trans  &trans
             >;
         };
