@@ -144,13 +144,12 @@
         };
 
     symbol_layer {
-
             bindings = <
      &none    &none   &none    &none     &none                                                                                  &none     &none    &none    &none    &none
   &none    &none   &none    &none     &none  &none                                                                  &none  &none     &none    &none    &none  &none
 
     &none     &none &none      &none       &none    &none                                                                    &none   &none &none &none &none &none
-    &kp GRAVE     &kp BLSH     &kp EQUAL     &kp SEMI      &mt LSHIFT MINUS   &kp SQT                                                                   &kp N1   &mt RSHIFT N9      &kp N8     &kp N7     &kp N5    &none
+    &kp GRAVE     &kp BSLH     &kp EQUAL     &kp SEMI      &mt LSHIFT MINUS   &kp SQT                                                                   &kp N1   &mt RSHIFT N9   &kp N8     &kp N7    &kp N5    &none
   &trans     &kp FSLH    &kp COMMA     &kp DOT      &kp LBKT   &kp RBKT  &trans  &trans    &lower  &trans  &trans  &trans   &kp N3   &kp N0  &kp N4   &kp N2  &kp N6  &trans
  &magic 2 0  &trans  &trans  &trans  &trans           &trans    &trans  &trans  &trans    &trans  &trans          &trans   &trans  &trans  &trans  &trans
             >;
